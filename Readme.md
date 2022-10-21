@@ -1,2 +1,2 @@
-ECHO is on.
 first point
+second point
